@@ -7,7 +7,9 @@ It allows you to configure a set of web radio stations (or possibly other radio 
 play them to media player entities of your choice, like chromecast or spotify connect listeners.
 
 This version supports multiple device types.
+
 The device type [chromecast, sonos, yamaha] must be specified for each player (entity).
+
 You can also specify a name to give the speaker if you do not want to use the friendly name.
 
 ## Acknowledgement
