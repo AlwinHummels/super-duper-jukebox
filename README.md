@@ -13,11 +13,6 @@ to some *Frozen*, while you're Jazzing in the Kitchen. Volume-Level is handled s
 ## Acknowledgement
 It's an improved version of the Jukebox https://github.com/lukx/home-assistant-jukebox
 
-
-### Configuration
-Find stream URLs, e.g. on [Radio-Browser.info](http://www.radio-browser.info/gui/#/)
-See this example setting a couple of Web radios to my two chromecast players.
-
 *Excerpt of ui-lovelace.yaml*
 ```
 type: 'custom:jukebox-card'
