@@ -6,9 +6,9 @@ This is a media player UI for Home-Assistant leveraging the potential of the exc
 It allows you to configure a set of web radio stations (or possibly other radio media IDs such as spotify), and
 play them to media player entities of your choice, like chromecast or spotify connect listeners.
 
-You can send different media to different players, which makes it usable for multi-room setups: Let your kids listen
-to some *Frozen*, while you're Jazzing in the Kitchen. Volume-Level is handled separately, too.
-"See the jukebox in action")
+This version supports multiple device types 
+You now must specify the device type [chromecast, sonos, yamaha]
+and you can specify a name to give the speaker if you do not want to use the friendly name.
 
 ## Acknowledgement
 It's an improved version of the Jukebox https://github.com/lukx/home-assistant-jukebox
