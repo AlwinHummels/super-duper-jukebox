@@ -20,7 +20,7 @@ See this example setting a couple of Web radios to my two chromecast players.
 
 *Excerpt of ui-lovelace.yaml*
 ```
-type: 'custom:super-jukebox-card'
+type: 'custom:jukebox-card'
 links:
   - url: >-
       https://ruv-ras1-live-hls.secure.footprint.net/hls-live/ruv-ras1/_definst_/live.m3u8
